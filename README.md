@@ -1,0 +1,7 @@
+## Project Description
+
+This project explores the simulation of a **geometric body** re-entering from space into Earth’s atmosphere.  
+
+The goal is to track its **position**, **velocity**, and **orientation** while capturing the critical transition between the **space environment** and the **atmospheric environment**.  
+
+In this **transition zone**, motion and aerodynamics become tightly coupled, making the problem both **mathematically** and **physically challenging**.
